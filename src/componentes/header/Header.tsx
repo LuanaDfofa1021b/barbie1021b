@@ -7,7 +7,7 @@ function Header(){
            </div>
            <nav>
            <ul>
-            <li><a href='#'>Home</a></li>
+            <li><a href='#'>Pagina Inicial</a></li>
             <li><a href='#'>Sobre</a></li>
             <li><a href='#'>Noticia</a></li>
             <li><a href='#'>Contato</a></li>
