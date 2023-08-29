@@ -2,9 +2,7 @@ import './Header.css'
 function Header(){
     return(
         <header>
-           <div>
-            Logo
-           </div>
+            <div className="logo"></div>
            <nav>
            <ul>
             <li><a href='#'>Pagina Inicial</a></li>
